@@ -3932,6 +3932,18 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/MageFlight_OSD.txt",
+      "hash": "f0de4762c959534cb424dd2aedad1be7218ded2f801cbace8d67a4836d711806",
+      "title": "OSD by MageFlight",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "author": "Christian P. / MageFlight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
       "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
       "title": "QuadMcFly - DJI HD OSD",
