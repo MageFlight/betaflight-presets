@@ -1,0 +1,22 @@
+#$ TITLE: HD OSD by MageFlight
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ AUTHOR: Christian P. / MageFlight
+
+#$ INCLUDE: presets/4.4/osd/defaults.txt
+
+set osd_warn_bitmask = 8189
+set osd_link_quality_pos = 3619
+set osd_tim_2_pos = 3629
+set osd_flymode_pos = 2610
+set osd_throttle_pos = 2602
+set osd_current_pos = 2617
+set osd_craft_name_pos = 2114
+set osd_pilot_name_pos = 2082
+set osd_warnings_pos = 14868
+set osd_avg_cell_voltage_pos = 2594
+set osd_flip_arrow_pos = 2394
+set osd_stat_bitmask = 13100
+set osd_displayport_device = MSP
+set vcd_video_system = HD

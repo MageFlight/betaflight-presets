@@ -3920,9 +3920,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/Mageflight_OSD.txt",
-      "hash": "b0014397c08057f74df7d9e0f2de0538db6186fc616a62d1aca36b92f2902f02",
-      "title": "OSD by MageFlight",
+      "fullPath": "presets/4.4/osd/Mageflight_HD_OSD.txt",
+      "hash": "83fa9fe9cb43f0a0087f13caff75f395a5ea042a856547359d722a46692483de",
+      "title": "HD OSD by MageFlight",
       "firmware_version": [
         "4.4"
       ],
